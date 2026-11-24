@@ -1,0 +1,9 @@
+employee_id,name,team,weekly_hours,opening_balance
+E001,Ana Ribeiro,Operations,40,02:30
+E002,Bruno Costa,Operations,40,00:00
+E003,Clara Dubois,Finance,40,-01:15
+E004,Daniel Weber,Operations,40,05:00
+E005,Elena Rossi,Support,40,00:45
+E006,Filipe Santos,Support,40,-00:30
+E007,Greta Novak,Finance,20,00:00
+E008,Hugo Martins,Operations,40,01:00
